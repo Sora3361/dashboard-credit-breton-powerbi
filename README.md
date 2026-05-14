@@ -39,8 +39,7 @@ Le dashboard permet aux managers d'identifier en un coup d'œil les agences avec
 
 ## Aperçu du Dashboard
 
-visualisation projet.png
-
+![Dashboard Crédit Breton](visualisation%20projet.png)
 ---
 
 ## Outils utilisés
