@@ -39,7 +39,7 @@ Le dashboard permet aux managers d'identifier en un coup d'œil les agences avec
 
 ## Aperçu du Dashboard
 
-
+visualisation projet.png
 
 ---
 
