@@ -59,10 +59,8 @@ Le dashboard permet aux managers d'identifier en un coup d'œil les agences avec
 dashboard-credit-breton-powerbi/
 │
 ├── README.md
-├── screenshot/
-│   └── dashboard.png
-└── data/
-    └── dataset.xlsx
+├── dashboard.png
+└── dataset.xlsx
 ```
 
 ---
