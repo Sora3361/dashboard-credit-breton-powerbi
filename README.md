@@ -1,4 +1,4 @@
-# Dashboard de Pilotage – Crédit Breton 🏦
+# Dashboard de Pilotage – Crédit Breton 
 
 ## Contexte & Problématique
 
@@ -39,7 +39,7 @@ Le dashboard permet aux managers d'identifier en un coup d'œil les agences avec
 
 ## Aperçu du Dashboard
 
-![Dashboard Crédit Breton](screenshot/dashboard.png)
+
 
 ---
 
